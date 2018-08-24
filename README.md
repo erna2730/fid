@@ -1,2 +1,0 @@
-# fid
-starting up
